@@ -1,5 +1,5 @@
 # Module 1 Challenge: code refractor
-This project has been finished folliwing the next requirements:
+This project has been finished following the next requirements:
 
 
 ## User story-
